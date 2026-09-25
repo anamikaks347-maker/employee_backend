@@ -7,8 +7,8 @@
   "description": "",
   "main": "index.js",
   "devDependencies": {},
-  "scripts": {
-  "start": "json-server db.json"
+"scripts": {
+  "start": "node ./node_modules/json-server/lib/bin.js db.json"
 },
   "keywords": [],
   "author": "",
