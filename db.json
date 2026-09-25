@@ -1,0 +1,13 @@
+{
+  "employees": [
+    {
+      "id": "AJ7LeXY9w_M",
+      "name": "shana",
+      "email": "shana@gmail.com",
+      "department": "IT",
+      "salary": "300000",
+      "joiningDate": "2026-08-23"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
